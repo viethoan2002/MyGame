@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/House_01.unity
+    guid: 4cc49fbfa8652004b95c50fb0568e493
+  - enabled: 1
+    path: Assets/Scenes/Scene_Center.unity
+    guid: 1d714ddff6896694b92190993d97bb23
+  - enabled: 1
+    path: Assets/Scenes/House_02.unity
+    guid: 86f53ca57f6a91345ae9c29d1c67458e
+  - enabled: 1
+    path: Assets/Scenes/Scene_Top.unity
+    guid: 66345cfe0e45f8149ad77959eaaf02ab
+  - enabled: 1
+    path: Assets/Scenes/Scene_TopLeft.unity
+    guid: a6a6f587dfc264944a201534b7390852
+  - enabled: 1
+    path: Assets/Scenes/Scene_TopRight.unity
+    guid: f77cb43b8e7ed854d93b5266319a92cf
+  - enabled: 1
+    path: Assets/Scenes/Scene_Left.unity
+    guid: b97d1490d19edef4db1de3063367b0aa
+  - enabled: 1
+    path: Assets/Scenes/Scene_Right.unity
+    guid: ac8a1f26be85195449e53e4ad4789dc1
+  - enabled: 1
+    path: Assets/Scenes/Scene_Bottom.unity
+    guid: 660b353f3b9b4b14eac1c8fc5810250e
+  - enabled: 1
+    path: Assets/Scenes/Scene_BottomLeft.unity
+    guid: d0d6c5473509c834ab9a812928046d51
+  - enabled: 1
+    path: Assets/Scenes/Scene_Mountain.unity
+    guid: 7bd6402d10960fc4d903e84ef9f0ed3e
+  - enabled: 1
+    path: Assets/Scenes/Scene_BottomRight.unity
+    guid: 60972f86ac7b5034cab20fb7b2f25af9
+  - enabled: 1
+    path: Assets/Scenes/Scene_Tomb_01.unity
+    guid: 11a037dece6a23349b5d220c25d1b503
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 28a0a84f9a758694eb02314f71526930,
+      type: 2}

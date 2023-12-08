@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d868eafeccb6da40bfd77df25b649d5, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5137081583745792306, guid: 19531bdd6d23a494389506eb4b601f1f, type: 3}
+  prefabUI: {fileID: 2895523611575524032, guid: 6a38d488501c50846add66975d974850,
+    type: 3}
+  weight: 0.9
+  type: 2
+  icon: {fileID: 21300000, guid: 13b2d3452362ab84fac7bb94a2a99c4a, type: 3}
+  nameItem: "R\xECu"
+  description: 
+  isRange: 0
+  atkBonus: 0
+  SoundAttack: {fileID: 0}
+  SoundCantAttack: {fileID: 0}
+  maxBullet: 0
+  currentBullet: 0
+  timeReload: 0

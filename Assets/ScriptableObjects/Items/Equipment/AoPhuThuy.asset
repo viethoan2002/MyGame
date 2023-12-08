@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f597a9295fdd554db5dbbb932c03b77, type: 3}
+  m_Name: AoPhuThuy
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  prefabUI: {fileID: 6980597678182241454, guid: 96983330b514c924fb91b845f7b6be04,
+    type: 3}
+  weight: 0
+  type: 1
+  icon: {fileID: 21300000, guid: 2bd976ee33cc7544cbd999fe4da4f040, type: 3}
+  nameItem: "\xC1o th\xF9 th\u1EE7y"
+  description: 
+  skin: {fileID: 6283762245788480944, guid: bb40565181786aa4cb62d6fcd6ac7957, type: 3}
+  defenceBonus: 0

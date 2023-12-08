@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c9e7a0794e78847b6d9d8951be5bd8, type: 3}
+  m_Name: Kitchen
+  m_EditorClassIdentifier: 
+  nameInventory: kitchen
+  savePath: /kitchen_inventory.Save
+  Container:
+    cabinet: 5
+    Items:
+    - ID: 0
+      item: {fileID: 11400000, guid: 7804a0847cd0b1a4394994f899c84328, type: 2}
+      amount: 2
+    - ID: 1
+      item: {fileID: 11400000, guid: f4a0e03aeada55d4b96c90fe908a1e3a, type: 2}
+      amount: 2

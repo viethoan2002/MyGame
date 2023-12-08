@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f597a9295fdd554db5dbbb932c03b77, type: 3}
+  m_Name: AoChoang
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  prefabUI: {fileID: 6980597678182241454, guid: 96983330b514c924fb91b845f7b6be04,
+    type: 3}
+  weight: 0.1
+  type: 1
+  icon: {fileID: 21300000, guid: 73eb4fa9f22df9c44aa77b65997a378b, type: 3}
+  nameItem: "\xC1o cho\xE0ng"
+  description: 
+  skin: {fileID: 1960251323948857837, guid: bdd8def79b90cbf42903b785817b818c, type: 3}
+  defenceBonus: 0
